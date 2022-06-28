@@ -40,8 +40,4 @@
  >Any application that can be written in JavaScript, will eventually be written in JavaScript. Jeff ATWOOD
  ---
  
-| Tables        | Are           | Cool  |  Deneme |
-| ------------- |:-------------:| -----:| deneme :|
-| col 3 is      | right-aligned | $1600 | deneme :|
-| col 2 is      | centered      |   $12 | deneme :|
-| zebra stripes | are neat      |    $1 | deneme :|
+
